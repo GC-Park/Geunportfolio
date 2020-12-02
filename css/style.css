@@ -24,6 +24,24 @@ html, body{
     background: url("../images/c.jpg") no-repeat;
     background-size: cover;
 }
+.background__04{
+    width:100%;
+    height: 100%;
+    background: url("../images/d.jpg") no-repeat;
+    background-size: cover;
+}
+.background__05{
+    width:100%;
+    height: 100%;
+    background: url("../images/e.jpg") no-repeat;
+    background-size: cover;
+}
+.background__06{
+    width:100%;
+    height: 100%;
+    background: url("../images/f.jpg") no-repeat;
+    background-size: cover;
+}
 .overlay{
   width:100%;
   height: 100%;
